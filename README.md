@@ -19,4 +19,4 @@ Example: !fflog First Second World
 
 
 
-### Update Aug 22. Ranking and dps have changed to rdps.
+### Update on Aug 22. DPS and rankings have been changed to rdps and rdps rankings.
