@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup as BS
 import urllib.request
 from Settings import *
 
-TOKEN = "NjAyNjA3OTU4MTE4ODkxNTQz.XV3bAQ.1a1LJLROk2PmmoEJgwcgUgk4huU"
+TOKEN = "NjAyNjA3OTU4MTE4ODkxNTQz.XV8i9w.Ha63UkHPm72-oiWzs8EMgxN12oo"
 BOT_PREFIX = ("?", "!")
 
 client = discord.Client()
@@ -107,7 +107,7 @@ def output(ff_data):
 def bot_talks(name, server, region):
     #API location
 
-    url = "https://www.fflogs.com/v1/rankings/character/" + name + "/" + server + "/" + region + "?api_key=" + fflogkey
+    url = "https://www.fflogs.com/v1/rankings/character/" + name + "/" + server + "/" + region + "?metric=rdps&api_key=" + fflogkey
 
     data = requests.get(url) #to obtain the data
     jdata = json.loads(data.text) #transform data to dictionary/list format
