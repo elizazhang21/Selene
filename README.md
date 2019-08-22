@@ -8,7 +8,7 @@ Commands should start with "!" or "?"
 Example: !guide blm
 
 ## FFlogs rankings
-New feature has been added today -- retrieving fflog parses from FF Logs API(Still using dps ranking instead of rdps ranking. Will be updated in the future.)
+New feature has been added today -- retrieving fflog parses from FF Logs API(Still using dps ranking instead of rdps ranking. Will be updated in the future.---Updated on Aug 22)
 
 Example: !fflog First Second World
 
