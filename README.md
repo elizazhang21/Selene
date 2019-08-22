@@ -1,6 +1,6 @@
 # Selene
 
-Selene is a chatbot which provides guide search and fflogs parses for ffxiv.
+Selene is a discord chatbot which provides guide search and fflogs parses for ffxiv players.
 
 Commands should start with "!" or "?"
 
