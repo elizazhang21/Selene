@@ -4,6 +4,9 @@ Selene is a discord chatbot which provides guide search and fflogs parses for ff
 
 Commands should start with "!" or "?"
 
+Invite Link is 
+https://discordapp.com/oauth2/authorize?client_id=602607958118891543&permissions=59392&redirect_uri=https%3A%2F%2Fdiscord.gg%2FVK7mR8&scope=bot
+
 ## Guides
 Example: !guide blm
 
