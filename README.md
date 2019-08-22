@@ -12,5 +12,6 @@ New feature has been added today -- retrieving fflog parses from FF Logs API(Sti
 
 Example: !fflog First Second World
 
+Aug 20, 2019
 
 ### Update Aug 22. Ranking and dps have changed to rdps.
